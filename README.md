@@ -4,23 +4,8 @@
 ![screenshot_main.png](res/screenshots/screenshot_main.png)
 
 
-# NOTICE: July 20th, 2019
-
-AFAIK discline has become non-functional.
-
-* Python3.7 has changed the syntax of its async libraries.
-
-* discord.py has also gone through a new release cycle which's syntax is not backwards compatible.
-
-Discline will require a full rewrite, possibly done in a new language.
-
-Stay tuned for updates via this readme.
-
-Thanks to all that have supported the project thus far, 
-I hope you stick around for whats to come.
-
-<sub>With that said, I'll leave the remainder of the readme intact:</sub>
-
+> [!CAUTION] 
+> I am not responsible if you get your account banned from this project. Use at your own risk.
 
 ## How to use:
 -------------------------
